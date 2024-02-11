@@ -22,3 +22,5 @@ No installation required, simply download the script and run it using the Python
 2. The calendar for the entered month and year will be displayed.
 3. To check the calendar for a different month and year, choose "y" when prompted.
 4. To exit the application, choose "n" when prompted.
+
+©ShabirMP 2024
